@@ -1,4 +1,6 @@
 👩🏽‍💻 Nicolly G. S. Barbosa
+
+
 **`Analista de Dados`**
 
 Olá! Me chamo Nicolly Gabriele, sou apaixonada por tecnologia e atualmente estou focando minha carreira em Análise de Dados.
