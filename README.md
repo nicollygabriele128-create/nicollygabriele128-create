@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=F2C811&size=35&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+Nicolly+Gabriele;Especialista+em+Transformar+Dados+em+Decisões;Transição+de+Carreira:+RH/Financeiro+➜+Data+Analytics;Estudante+de+Dados+na+EBAC;Seja+bem-vindo(a)+ao+meu+universo+de+dados!+📊" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=F2C811&size=35&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+Nicolly+Gabriele;Especialista+em+Transformar+Dados+em+Decisões; Transição+de+Carreira:+RH/Financeiro+➜+Data+Analytics;Estudante+de+Dados+na+EBAC;Seja+bem-vindo(a)+ao+meu+universo+de+dados!+📊" />
 </p>
 
 <p align="center">
