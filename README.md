@@ -28,7 +28,7 @@ Sou uma apaixonada por tecnologia em transição de carreira para a área de dad
 ### 💰 1. Desertos de Crédito: Análise de Expansão Financeira
 <p align="left">
   <a href="https://github.com/nicollygabriele128-create/projeto-desertos-credito">
-    <img width="800" alt="Projeto Desertos de Crédito" src="https://github.com/nicollygabriele128-create/projeto-desertos-credito/preview_deserto.png"/>
+    <img width="800" alt="Projeto Desertos de Crédito" src="https://github.com/nicollygabriele128-create/projeto-desertos-credito/blob/main/preview_deserto.png?raw=true"/>
   </a>
 </p>
 
@@ -45,8 +45,8 @@ Projeto focado em identificar regiões com escassez de serviços financeiros. Ut
 
 ### 👮 2. London Crime Analytics: Cloud & BI
 <p align="left">
-  <a href="https://github.com/nicollygabriele128-create/Projeto-London-Crime">
-    <img width="800" alt="Dashboard Londres" src="https://github.com/nicollygabriele128-create/Projeto-London-Crime/Projeto-London-Crime/dashboard_london.png" />
+  <a href="https://github.com/nicollygabriele128-create/london-crime-analytics">
+    <img width="800" alt="Dashboard Londres" src="https://github.com/nicollygabriele128-create/Projeto-London-Crime/blob/main/dashboard_london.png?raw=true" />
   </a>
 </p>
 
